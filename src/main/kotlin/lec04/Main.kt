@@ -9,6 +9,4 @@ fun main() {
     if (money1 > money2) {
         println("money1이 money2보다 금액이 큽니다")
     }
-
-
 }
